@@ -1,0 +1,21 @@
+# Web app framework
+streamlit==1.38.0
+
+# Hugging Face model & NLP pipeline
+transformers==4.44.0
+torch>=2.3.0
+sentencepiece==0.1.99
+
+# Data handling
+pandas==2.2.3
+numpy>=1.26.0
+
+# Database connection
+sqlalchemy==2.0.30
+psycopg2-binary==2.9.9
+
+# Optional but recommended (for SSL connections to Neon)
+pg8000==1.30.2
+
+# Regex cleanup & misc helpers
+regex==2024.5.15

@@ -1,0 +1,29 @@
+# Virtual environments
+venv
+venv/
+.venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit cache
+.streamlit/
+
+# Hugging Face cache / models
+cache/
+*.bin
+*.pt
+
+# Environment variables
+.env
+*.env
+
+# VS Code & system files
+.vscode/
+.DS_Store
+Thumbs.db
