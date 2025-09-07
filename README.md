@@ -1,4 +1,4 @@
-#  AI-Powered SQL Helper
+#  YB's AI-Powered SQL Helper
 
 Generate **SQL queries from natural language** using a fine-tuned **T5 model** and execute them directly on **Neon Postgres**. This project demonstrates how **AI + serverless Postgres** can simplify database queries for developers.
 
