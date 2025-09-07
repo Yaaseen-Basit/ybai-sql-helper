@@ -39,8 +39,8 @@ Generate **SQL queries from natural language** using a fine-tuned **T5 model** a
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/ai-sql-helper.git
-cd ai-sql-helper
+git clone https://github.com/Yaaseen-Basit/ybai-sql-helper.git
+cd ybai-sql-helper
 
 # Install dependencies
 pip install -r requirements.txt
