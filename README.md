@@ -16,7 +16,7 @@ Generate **SQL queries from natural language** using a fine-tuned **T5 model** a
 
 ## 🎥 Demo
 
-![Demo](./demo/demo.png)
+![Demo](./demo/demo withdescending.png)
 
 1. Enter your question in natural language
 2. AI generates SQL
